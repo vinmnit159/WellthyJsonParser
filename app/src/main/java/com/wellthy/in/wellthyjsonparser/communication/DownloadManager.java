@@ -1,4 +1,4 @@
-package com.wellthy.in.wellthyjsonparser;
+package com.wellthy.in.wellthyjsonparser.communication;
 
 import android.util.Log;
 
